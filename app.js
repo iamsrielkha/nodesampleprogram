@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 2176
+const port = 944
 
 app.get('/', (req, res) => res.send('Ee Salaa Cup Namde - MI!!'))
 
